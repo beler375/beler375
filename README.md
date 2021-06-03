@@ -1,12 +1,27 @@
-<h1 align="center">Beler GitHub Profile README 
-<a href="https://www.producthunt.com/posts/beler-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-beler-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="beler GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<h1 align="center">Awesome GitHub Profile README 
+<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/beler/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="beler Badge"/>
-<a href="https://arbeitnow.com/?utm_source=beler-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/beler375/beler-github-profile-readme.svg" alt="Hits Badge"/> -->
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<img alt="beler GitHub Profile Readme" src="assets/agpr.gif"> </img>
-<i>Loved the project? Please consider [donating](https://saweria.co/maulans) to help it improve!</i>
+<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<br>
+
+<i>A curated list of awesome Github Profile READMEs</i>
+
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
+<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+
+<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+
 </div>
 
 ### Contents:
@@ -33,7 +48,9 @@
   - [Contribute](#contribute)
   - [License](#license)
 
+
 ## Categories
+
 #### GitHub Actions 🤖
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
@@ -66,6 +83,7 @@
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
@@ -75,6 +93,7 @@
 - [kylepls](https://github.com/kylepls/kylepls)
 - [Aaron Liu](https://github.com/HFO4/HFO4)
 - [marcizhu](https://github.com/marcizhu/marcizhu)
+
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
@@ -83,6 +102,7 @@
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
+
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
@@ -99,6 +119,7 @@
 - [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
 - [Dani Akash](https://github.com/daniakash/daniakash)
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
+
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
@@ -117,6 +138,7 @@
 - [Quin Knight](https://github.com/cheesits456/cheesits456)
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
+
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
@@ -126,6 +148,7 @@
 - [TheAbbie](https://github.com/theabbie/theabbie)
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
+
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
@@ -152,6 +175,7 @@
 - [Onimur](https://github.com/onimur/onimur)
 - [Bruno Tacca](https://github.com/brunotacca/brunotacca)
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
+
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
@@ -159,11 +183,13 @@
 - [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mason Slover](https://github.com/MasonSlover/MasonSlover)
 - [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
+
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
+
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
@@ -185,6 +211,7 @@
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
+
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
 - [Ari](https://github.com/ari-hacks/ari-hacks)
@@ -206,6 +233,7 @@
 - [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
 - [Somnath Paul](https://github.com/SP-XD/SP-XD)
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
+
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
 - [偏右](https://github.com/afc163/afc163)
@@ -214,6 +242,7 @@
 - [Kaito Sugimoto](https://github.com/7ma7X/7ma7X)
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
+
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
@@ -225,8 +254,10 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
+
 #### Icons 🎯
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
@@ -234,9 +265,11 @@
 - [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
 - [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
 - [Valentin Briand](https://github.com/vbriand/vbriand)
+
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
 - [Christian Petersen](https://github.com/fnky/fnky)
+
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
@@ -278,6 +311,7 @@
 - [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
 - ["How to Stand Out on Github with Profile READMEs"](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f) - *Jessica Lim*
@@ -298,17 +332,21 @@
 - ["How I added my Spotify statistics to my GitHub readme 📜"](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd) - *Akshit Garg*
 - ["Static Readme Regeneration"](https://dev.to/aralroca/static-readme-regeneration-4pf2) - *Aral Roca*
 - ["How to Create a Self-Updating README.md for Your GitHub Profile"](https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) - *Thomas Guibert*
+
 ## Tutorials
 - ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
 - ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
 - ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
 - ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
 - ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
+
 ## Contribute
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 ## Special Thanks 🙇
+
 - [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
-## License 
+## License
+
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
